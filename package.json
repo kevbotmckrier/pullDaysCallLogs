@@ -1,0 +1,18 @@
+{
+  "name": "pull-call-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "bluebird": "^3.3.5",
+    "moment": "^2.13.0",
+    "request-promise": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
